@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alfredo Garibaldi</h1>
 <h3 align="center">A passionate web developer in formation that loves doing sports on his spare time.</h3>
 
-- 🌱 I’m currently learning **Javascript, React**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m collaborated on [Toolkids](https://github.com/annarussi/ToolKids)
+- 👯 I collaborated on [Toolkids](https://github.com/annarussi/ToolKids)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlfredoGaribaldi4](https://github.com/AlfredoGaribaldi4)
 
