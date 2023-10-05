@@ -2,6 +2,8 @@
 <h3 align="center">A passionate web developer in formation that loves doing sports on his spare time.</h3>
 
 - 🌱 I’m currently working on **a few projects of my own as a freelance**. Developing my knoledge on **Cloud Computing :)**
+  
+- 🚀 Currently part of the Le Wagon Family as a Teaching Assistant in Lisbon, Portugal.
 
 - 💬 Ask me about CSS, JavaScript, HTML, Ruby on Rails, SQL, Figma.
 
