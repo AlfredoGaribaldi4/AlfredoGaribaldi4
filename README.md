@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on **a few projects of my own as a freelance**. Developing my knoledge on **Cloud Computing :)**
   
-- 🚀 Currently part of the Le Wagon Family as a Teaching Assistant in Lisbon, Portugal.
+- 🚀 Currently part of the **Le Wagon** Family as a Teaching Assistant in Lisbon, Portugal.
 
 - 💬 Ask me about CSS, JavaScript, HTML, Ruby on Rails, SQL, Figma.
 
